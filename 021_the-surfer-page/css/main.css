@@ -1,0 +1,26 @@
+html{
+  background-color: blue;
+}
+body{
+  width: 60%;
+  margin: 0 auto;
+  background-color: lawngreen;
+  border: 5px solid black;
+}
+
+
+img{
+  display: block;
+  margin: 0 auto;
+  border-radius: 100%;
+  border: 5px ridge gold;
+}
+
+#first
+{
+  color: deepskyblue;
+}
+
+#secondary {
+  color: orangered;
+}
